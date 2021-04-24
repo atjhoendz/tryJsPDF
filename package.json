@@ -1,0 +1,10 @@
+{
+  "name": "tryJsPDF",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "atjhoendz",
+  "license": "MIT",
+  "dependencies": {
+    "jspdf": "^2.3.1"
+  }
+}
